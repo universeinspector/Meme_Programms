@@ -1,5 +1,10 @@
 # Fake Output Programs 
 
+## Demo
+
+![Fake terminal output](demos/terminal.gif)
+
+
 ## What is this?
 
 This repository is a **collection of fake output programs**.  
@@ -44,7 +49,3 @@ Depending on the program, you may see:
 [WARNING] Something might be wrong. Or not.
 [SUCCESS] Operation completed successfully.
 Result: 42
-
-## Demo
-
-![Fake terminal output](demos/demo2.gif)
