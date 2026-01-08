@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Fake terminal output](demos/terminal.gif)
+![Fake terminal output](demo/demo2.gif)
 
 
 ## What is this?
