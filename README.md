@@ -2,8 +2,6 @@
 
 ## Demo
 
-## Demo
-
 ![Fake terminal output](https://raw.githubusercontent.com/universeinspector/Meme_Programs/main/demo/demo2.gif)
 
 
