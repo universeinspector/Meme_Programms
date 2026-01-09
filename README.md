@@ -2,8 +2,8 @@
 
 ## Demo
 
-![Fake terminal output](https://raw.githubusercontent.com/universeinspector/Meme_Programs/main/demo/demo2.gif)
-
+<img src="https://raw.githubusercontent.com/universeinspector/Meme_Programs/main/demo/demo2.gif"
+     alt="Fake terminal output">
 
 
 ## What is this?
